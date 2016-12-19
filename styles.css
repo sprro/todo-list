@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
 }
-li * {
+li * { /* what does * mean? */
   float: left;
 }
 li, h3 {
